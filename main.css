@@ -27,6 +27,6 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 10%;
+  width: 50%;
   filter: drop-shadow(#8c9265 0.2rem 0.2rem 0.8rem);
 }
